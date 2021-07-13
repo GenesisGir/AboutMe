@@ -1,6 +1,5 @@
-- 👋 Hello darlings! I am @GenesisGir or better known as gir!
-- 👀 I’m interested in machine learning . languages , coding, cource code , programming!
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on little easy intuitive programs for fun or just collaborating for fun and learning
-- 📫 www.twitch.tv/cashbunny2k
-
+- 👋 ん乇ﾚﾚの りﾑ尺ﾚﾉ刀ム丂! ﾉ ﾑﾶ @ム乇刀乇丂ﾉ丂ムﾉ尺 の尺 乃乇ｲｲ乇尺 ズ刀のW刀 ﾑ丂 ムﾉ尺!
+- 👀 ﾉ’ﾶ ﾉ刀ｲ乇尺乇丂ｲ乇り ﾉ刀 ﾶﾑᄃんﾉ刀乇 ﾚ乇ﾑ尺刀ﾉ刀ム . ﾚﾑ刀ムひﾑム乇丂 , ᄃのりﾉ刀ム, ᄃのひ尺ᄃ乇 ᄃのり乇 , ｱ尺のム尺ﾑﾶﾶﾉ刀ム!
+- 🌱 ﾉ’ﾶ ᄃひ尺尺乇刀ｲﾚﾘ ﾚ乇ﾑ尺刀ﾉ刀ム ｱﾘｲんの刀!
+- 💞️ ﾉ’ﾶ ﾚののズﾉ刀ム ｲの ᄃのﾚﾚﾑ乃の尺ﾑｲ乇 の刀 ﾚﾉｲｲﾚ乇 乇ﾑ丂ﾘ ﾉ刀ｲひﾉｲﾉ√乇 ｱ尺のム尺ﾑﾶ丂 ｷの尺 ｷひ刀 の尺 ﾌひ丂ｲ ᄃのﾚﾚﾑ乃の尺ﾑｲﾉ刀ム ｷの尺 ｷひ刀 ﾑ刀り ﾚ乇ﾑ尺刀ﾉ刀ム
+- 📫 WWW.ｲWﾉｲᄃん.ｲ√/ᄃﾑ丂ん乃ひ刀刀ﾘ2ズ
