@@ -20,8 +20,6 @@ so I started self teaching myself and now make the programs you see today! Im al
 and stream my progress within them showing people my wriring process which is like 20% AFk and 80%
 coding and hardwork.
 
-![gaz](https://user-images.githubusercontent.com/87259615/126918885-b5b9c692-5722-46ac-8cda-26483d8419cf.PNG)
-
 - uses visual studio code
 - self taught
 - active frequently
