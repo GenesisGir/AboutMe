@@ -23,4 +23,4 @@ coding and hardwork.
 - uses visual studio code
 - self taught
 - active frequently
-- started (11 days ago)
+- started (1 month ago)
