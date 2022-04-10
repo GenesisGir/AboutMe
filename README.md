@@ -8,7 +8,7 @@ I'm a Novice prgrammer with -100 IQ
 anything really but since I'm learning , I just use my imagination to conjure programs.
 
 # what language do you know?
-Python.(learning) rust.(learning)
+Python.(learning) Rust.(learning)
 
 # whats your end goal?
 To be a bad ass coder/programmer.
